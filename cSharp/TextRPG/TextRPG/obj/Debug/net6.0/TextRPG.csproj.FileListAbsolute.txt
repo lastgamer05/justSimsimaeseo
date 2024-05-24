@@ -1,0 +1,15 @@
+C:\Users\kangdaeun\github\king14-assignment\TextRPG\TextRPG\bin\Debug\net6.0\TextRPG.exe
+C:\Users\kangdaeun\github\king14-assignment\TextRPG\TextRPG\bin\Debug\net6.0\TextRPG.deps.json
+C:\Users\kangdaeun\github\king14-assignment\TextRPG\TextRPG\bin\Debug\net6.0\TextRPG.runtimeconfig.json
+C:\Users\kangdaeun\github\king14-assignment\TextRPG\TextRPG\bin\Debug\net6.0\TextRPG.dll
+C:\Users\kangdaeun\github\king14-assignment\TextRPG\TextRPG\bin\Debug\net6.0\TextRPG.pdb
+C:\Users\kangdaeun\github\king14-assignment\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.csproj.AssemblyReference.cache
+C:\Users\kangdaeun\github\king14-assignment\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kangdaeun\github\king14-assignment\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.AssemblyInfoInputs.cache
+C:\Users\kangdaeun\github\king14-assignment\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.AssemblyInfo.cs
+C:\Users\kangdaeun\github\king14-assignment\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\kangdaeun\github\king14-assignment\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.dll
+C:\Users\kangdaeun\github\king14-assignment\TextRPG\TextRPG\obj\Debug\net6.0\refint\TextRPG.dll
+C:\Users\kangdaeun\github\king14-assignment\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.pdb
+C:\Users\kangdaeun\github\king14-assignment\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.genruntimeconfig.cache
+C:\Users\kangdaeun\github\king14-assignment\TextRPG\TextRPG\obj\Debug\net6.0\ref\TextRPG.dll
