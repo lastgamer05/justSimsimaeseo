@@ -1,0 +1,15 @@
+D:\github_repo\justSimsimaeseo\cSharp\TextRPG_Sample\TextRPG_Sample\bin\Debug\net6.0\TextRPG_Sample.exe
+D:\github_repo\justSimsimaeseo\cSharp\TextRPG_Sample\TextRPG_Sample\bin\Debug\net6.0\TextRPG_Sample.deps.json
+D:\github_repo\justSimsimaeseo\cSharp\TextRPG_Sample\TextRPG_Sample\bin\Debug\net6.0\TextRPG_Sample.runtimeconfig.json
+D:\github_repo\justSimsimaeseo\cSharp\TextRPG_Sample\TextRPG_Sample\bin\Debug\net6.0\TextRPG_Sample.dll
+D:\github_repo\justSimsimaeseo\cSharp\TextRPG_Sample\TextRPG_Sample\bin\Debug\net6.0\TextRPG_Sample.pdb
+D:\github_repo\justSimsimaeseo\cSharp\TextRPG_Sample\TextRPG_Sample\obj\Debug\net6.0\TextRPG_Sample.csproj.AssemblyReference.cache
+D:\github_repo\justSimsimaeseo\cSharp\TextRPG_Sample\TextRPG_Sample\obj\Debug\net6.0\TextRPG_Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\github_repo\justSimsimaeseo\cSharp\TextRPG_Sample\TextRPG_Sample\obj\Debug\net6.0\TextRPG_Sample.AssemblyInfoInputs.cache
+D:\github_repo\justSimsimaeseo\cSharp\TextRPG_Sample\TextRPG_Sample\obj\Debug\net6.0\TextRPG_Sample.AssemblyInfo.cs
+D:\github_repo\justSimsimaeseo\cSharp\TextRPG_Sample\TextRPG_Sample\obj\Debug\net6.0\TextRPG_Sample.csproj.CoreCompileInputs.cache
+D:\github_repo\justSimsimaeseo\cSharp\TextRPG_Sample\TextRPG_Sample\obj\Debug\net6.0\TextRPG_Sample.dll
+D:\github_repo\justSimsimaeseo\cSharp\TextRPG_Sample\TextRPG_Sample\obj\Debug\net6.0\refint\TextRPG_Sample.dll
+D:\github_repo\justSimsimaeseo\cSharp\TextRPG_Sample\TextRPG_Sample\obj\Debug\net6.0\TextRPG_Sample.pdb
+D:\github_repo\justSimsimaeseo\cSharp\TextRPG_Sample\TextRPG_Sample\obj\Debug\net6.0\TextRPG_Sample.genruntimeconfig.cache
+D:\github_repo\justSimsimaeseo\cSharp\TextRPG_Sample\TextRPG_Sample\obj\Debug\net6.0\ref\TextRPG_Sample.dll

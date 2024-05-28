@@ -64,8 +64,6 @@ def swing(batter_choice, pitcher_choice, accruracy):
         strike += 1
 
 
-
-
 def batterMode(p1, b1):
     is3Out = False
     isOnBase = False
@@ -96,6 +94,8 @@ def batterMode(p1, b1):
             swing(batter_choice, pitcher_choice, accuracy)
     return is3Out
 
+
+
 def game():
     print("1. 타자모드")
     print("2. 투수모드 (아직 준비중)")
@@ -105,21 +105,17 @@ def game():
     if choice == 1:
         pitcher1 = Pitcher(50, 50, 50, 50)
 
-        print("능력치를 설정해 주세요 (합이 200 이하여야 함)")
-        power = int(input("파워 : "))
-        contact = int(input("컨택 : "))
-        speed = int(input("스피드 : "))
-        battingEye = int(input("선구안 : "))
-        statSum = power + contact + speed + battingEye
-
-        while statSum > 200 or statSum < 0:
-            print()
+        while True:
             print("능력치를 설정해 주세요 (합이 200 이하여야 함)")
             power = int(input("파워 : "))
             contact = int(input("컨택 : "))
             speed = int(input("스피드 : "))
             battingEye = int(input("선구안 : "))
             statSum = power + contact + speed + battingEye
+
+            if statSum <= 200:
+                break;
+
 
         batter1 = Batter(power, contact, speed, battingEye)
 

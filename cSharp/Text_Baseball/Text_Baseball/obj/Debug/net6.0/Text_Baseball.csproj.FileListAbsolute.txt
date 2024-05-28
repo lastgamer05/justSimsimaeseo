@@ -1,0 +1,15 @@
+D:\github_repo\justSimsimaeseo\cSharp\Text_Baseball\Text_Baseball\bin\Debug\net6.0\Text_Baseball.exe
+D:\github_repo\justSimsimaeseo\cSharp\Text_Baseball\Text_Baseball\bin\Debug\net6.0\Text_Baseball.deps.json
+D:\github_repo\justSimsimaeseo\cSharp\Text_Baseball\Text_Baseball\bin\Debug\net6.0\Text_Baseball.runtimeconfig.json
+D:\github_repo\justSimsimaeseo\cSharp\Text_Baseball\Text_Baseball\bin\Debug\net6.0\Text_Baseball.dll
+D:\github_repo\justSimsimaeseo\cSharp\Text_Baseball\Text_Baseball\bin\Debug\net6.0\Text_Baseball.pdb
+D:\github_repo\justSimsimaeseo\cSharp\Text_Baseball\Text_Baseball\obj\Debug\net6.0\Text_Baseball.csproj.AssemblyReference.cache
+D:\github_repo\justSimsimaeseo\cSharp\Text_Baseball\Text_Baseball\obj\Debug\net6.0\Text_Baseball.GeneratedMSBuildEditorConfig.editorconfig
+D:\github_repo\justSimsimaeseo\cSharp\Text_Baseball\Text_Baseball\obj\Debug\net6.0\Text_Baseball.AssemblyInfoInputs.cache
+D:\github_repo\justSimsimaeseo\cSharp\Text_Baseball\Text_Baseball\obj\Debug\net6.0\Text_Baseball.AssemblyInfo.cs
+D:\github_repo\justSimsimaeseo\cSharp\Text_Baseball\Text_Baseball\obj\Debug\net6.0\Text_Baseball.csproj.CoreCompileInputs.cache
+D:\github_repo\justSimsimaeseo\cSharp\Text_Baseball\Text_Baseball\obj\Debug\net6.0\Text_Baseball.dll
+D:\github_repo\justSimsimaeseo\cSharp\Text_Baseball\Text_Baseball\obj\Debug\net6.0\refint\Text_Baseball.dll
+D:\github_repo\justSimsimaeseo\cSharp\Text_Baseball\Text_Baseball\obj\Debug\net6.0\Text_Baseball.pdb
+D:\github_repo\justSimsimaeseo\cSharp\Text_Baseball\Text_Baseball\obj\Debug\net6.0\Text_Baseball.genruntimeconfig.cache
+D:\github_repo\justSimsimaeseo\cSharp\Text_Baseball\Text_Baseball\obj\Debug\net6.0\ref\Text_Baseball.dll
