@@ -44,6 +44,30 @@
                 battingEye = 0;
             }
 
+            
+
+            public static void looking()
+            {
+                Random random = new Random();
+                int rand = random.Next(0, 100);
+                
+                if(rand < Setting.prob_Strike)
+                {
+                    Console.WriteLine("스트라이크!");
+                    m_strike++;
+                }
+                else
+                {
+                    Console.WriteLine("볼");
+                    m_ball++;
+                }
+
+                check_Count();
+            }
+        }
+
+        public class Bat
+        {
             public static void swing()
             {
                 Random rand = new Random();
@@ -75,25 +99,6 @@
                 {
                     Console.WriteLine("\n헛스윙!");
                     m_strike++;
-                }
-
-                check_Count();
-            }
-
-            public static void looking()
-            {
-                Random random = new Random();
-                int rand = random.Next(0, 100);
-                
-                if(rand < Setting.prob_Strike)
-                {
-                    Console.WriteLine("스트라이크!");
-                    m_strike++;
-                }
-                else
-                {
-                    Console.WriteLine("볼");
-                    m_ball++;
                 }
 
                 check_Count();
@@ -199,7 +204,7 @@
             }
         }
 
-        static void batterMode(Batter batter, Pitcher pitcher)
+        static void batterMode(Pitcher pitcher)
         {
             pitcher.createRandPitcher();
 
@@ -216,7 +221,7 @@
                 switch (choice)
                 {
                     case "1":
-                        Batter.swing();
+                        Bat.swing();
                         break;
                     case "2":
                         Batter.looking();
@@ -234,6 +239,11 @@
             {
                 Console.WriteLine("\n출루에 성공했습니다!");
             }
+        }
+
+        static void runnerMode()
+        {
+
         }
 
         static void situation()
@@ -261,7 +271,11 @@
                 {
                     case "1":
                         createStat(batter);
-                        batterMode(batter, pitcher);
+                        batterMode(pitcher);
+                        if (m_isOnBase)
+                        {
+                            runnerMode();
+                        }
                         break;
                     case "2":
                         break;
